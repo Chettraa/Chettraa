@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Ngen Tina</h1>
+<h1 align="center">Hi 👋, I'm NANG Chettra</h1>
 <h3 align="center">A student passionate about Data Science, and Web Developer.</h3>
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 📫 How to reach me **ngentina69@gmail.com**
+- 📫 How to reach me **nangchettra@gmail.com**
 
 - ⚡️ Fun fact **I am a fan of MCU!!!**
 
@@ -28,7 +28,8 @@ Here are some ideas to get you started:
 <p align="left">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<
+h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
